@@ -6,22 +6,8 @@ Experimento 1
 
 Experimento 2
 
-Master 1 . Añadi este texto desde el master
-TOCA ESPERAR
+Master 1 
 
-Master 2 . Este texto está añadido desde la orueba
-HAY QUE ESPERAR LA PRUEBA.
+Master 2 
 
-Mañana nos efocaremos en su vida laboral.
-
-Cree una prueba
-
-Soy Gis y colaboré con el proyecto.
-
-Nuevamente colaboré.
-
-Esa prueba es otra.
-Edicion especial
-
-
-Despues de generar la rama
+Lista de compañeros:
