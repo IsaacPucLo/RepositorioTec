@@ -9,7 +9,8 @@ Experimento 2
 Master 1 . Añadi este texto desde el master
 TOCA ESPERAR
 
-Master 2
+Master 2 . Este texto está añadido desde la orueba
+HAY QUE ESPERAR LA PRUEBA.
 
 Mañana nos efocaremos en su vida laboral.
 
