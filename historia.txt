@@ -6,7 +6,8 @@ Experimento 1
 
 Experimento 2
 
-Master 1
+Master 1 . Añadi este texto desde el master
+TOCA ESPERAR
 
 Master 2
 
